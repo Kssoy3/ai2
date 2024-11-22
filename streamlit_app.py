@@ -88,9 +88,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "Label 1 최고.",
+            "Label 1 짱.",
+            "Label 1 와우."
         ]
     },
     labels[1]: {
